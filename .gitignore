@@ -1,1 +1,5 @@
 myenv
+ML-Pipeline/.data
+ML-Pipeline/__pycache__
+ML-Pipeline/models
+ML-Pipeline/reports
