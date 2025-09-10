@@ -1,0 +1,20 @@
+2025-09-11 01:15:57,242 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 01:15:59,399 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 01:15:59,425 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 01:15:59,460 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 01:15:59,461 - model_evaluation - ERROR - Failed to complete the model evaluation process: Live.__init__() got an unexpected keyword argument 'save_dvc_exp'
+2025-09-11 01:18:37,874 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 01:18:38,067 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 01:18:38,076 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 01:18:38,103 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 01:18:38,106 - model_evaluation - ERROR - Failed to complete the model evaluation process: 'Live' object does not support the context manager protocol
+2025-09-11 01:20:00,671 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 01:20:00,819 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 01:20:00,829 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 01:20:00,865 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 01:20:00,868 - model_evaluation - ERROR - Failed to complete the model evaluation process: 'Live' object has no attribute 'log_metric'
+2025-09-11 01:21:44,985 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 01:21:45,165 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 01:21:45,175 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 01:21:45,213 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 01:21:46,264 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
