@@ -6,3 +6,9 @@
 2025-09-10 16:53:00,638 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
 2025-09-10 16:53:00,640 - data_ingestion - DEBUG - Data preprocessing completed
 2025-09-10 16:53:00,654 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-09-11 17:59:11,036 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 17:59:11,037 - data_ingestion - ERROR - Failed to complete the data ingestion process: 'data_ingestion'
+2025-09-11 18:02:07,367 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 18:02:08,206 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+2025-09-11 18:02:08,213 - data_ingestion - DEBUG - Data preprocessing completed
+2025-09-11 18:02:08,263 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

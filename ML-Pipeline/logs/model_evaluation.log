@@ -18,3 +18,19 @@
 2025-09-11 01:21:45,175 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2025-09-11 01:21:45,213 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2025-09-11 01:21:46,264 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2025-09-11 18:03:12,375 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 18:03:12,527 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 18:03:12,536 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 18:03:12,558 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 18:03:13,004 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-09-11 18:08:37,293 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 18:08:37,449 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 18:08:37,460 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 18:08:37,492 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 18:08:37,898 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2025-09-11 18:11:31,860 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-09-11 18:11:32,000 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-09-11 18:11:32,008 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-09-11 18:11:32,028 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-09-11 18:11:32,029 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2025-09-11 18:11:32,836 - model_evaluation - DEBUG - Metrics logged to DVC Live

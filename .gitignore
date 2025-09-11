@@ -1,5 +1,6 @@
-myenv
-ML-Pipeline/.data
-ML-Pipeline/__pycache__
-ML-Pipeline/models
-ML-Pipeline/reports
+myenv/
+ML-Pipeline/data/
+ML-Pipeline/__pycache__/
+ML-Pipeline/models/
+ML-Pipeline/reports/
+ML-Pipeline/dvclive/

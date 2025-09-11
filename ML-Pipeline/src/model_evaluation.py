@@ -6,7 +6,6 @@ import json
 from sklearn.metrics import accuracy_score, precision_score, recall_score, roc_auc_score
 import logging
 import yaml
-from dvclive import Live
 
 # Ensure the "logs" directory exists
 log_dir = 'logs'
@@ -120,23 +119,26 @@ def main():
         y_test = test_data.iloc[:, -1].values
 
         metrics = evaluate_model(clf, X_test, y_test)
-
-        # Use compatible methods for older dvclive versions
-        live = Live()
         
-        # Update the summary directly - works with most dvclive versions
-        live.summary = {
-            'accuracy': float(metrics['accuracy']),
-            'precision': float(metrics['precision']),
-            'recall': float(metrics['recall']),
-            'auc': float(metrics['auc'])
-        }
-        
-        # No parameter logging - will need to be done manually if needed
-        
+        # First, ensure metrics are saved to file (important for DVC)
         save_metrics(metrics, 'reports/metrics.json')
         
-        # Print metrics to console as well
+        # Then try to use dvclive, but don't let it stop our script if it fails
+        try:
+            from dvclive import Live
+            live = Live()
+            live.summary = {
+                'accuracy': float(metrics['accuracy']),
+                'precision': float(metrics['precision']),
+                'recall': float(metrics['recall']),
+                'auc': float(metrics['auc'])
+            }
+            logger.debug('Metrics logged to DVC Live')
+        except Exception as e:
+            # Just log the error but continue execution
+            logger.warning('DVC Live logging failed: %s. Continuing without it.', e)
+        
+        # Print metrics to console
         print(f"Model Metrics:")
         for metric, value in metrics.items():
             print(f"  {metric}: {value:.4f}")
