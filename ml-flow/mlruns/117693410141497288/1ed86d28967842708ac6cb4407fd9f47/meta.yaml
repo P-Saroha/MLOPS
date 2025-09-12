@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/117693410141497288/1ed86d28967842708ac6cb4407fd9f47/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '117693410141497288'
+lifecycle_stage: active
+run_id: 1ed86d28967842708ac6cb4407fd9f47
+run_name: debonair-foal-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757703073411
+status: 1
+tags: []
+user_id: saroh
