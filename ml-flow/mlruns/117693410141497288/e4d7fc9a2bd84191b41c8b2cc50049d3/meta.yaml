@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/117693410141497288/e4d7fc9a2bd84191b41c8b2cc50049d3/artifacts
+end_time: 1757696653684
+entry_point_name: ''
+experiment_id: '117693410141497288'
+lifecycle_stage: active
+run_id: e4d7fc9a2bd84191b41c8b2cc50049d3
+run_name: agreeable-bass-486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757696648767
+status: 3
+tags: []
+user_id: saroh
