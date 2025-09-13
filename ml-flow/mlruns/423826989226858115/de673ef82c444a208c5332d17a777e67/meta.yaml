@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/de673ef82c444a208c5332d17a777e67/artifacts
+end_time: 1757710064483
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: de673ef82c444a208c5332d17a777e67
+run_name: judicious-croc-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064415
+status: 3
+tags: []
+user_id: saroh

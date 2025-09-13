@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/41937231a5804b8c8efcf439c279889e/artifacts
+end_time: 1757710064245
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 41937231a5804b8c8efcf439c279889e
+run_name: clumsy-newt-478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064162
+status: 3
+tags: []
+user_id: saroh

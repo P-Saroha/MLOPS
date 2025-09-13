@@ -1,0 +1,10 @@
+artifact_location: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/models/m-ff6ba514d2094b9ab052f3dec874cbd3/artifacts
+creation_timestamp: 1757710065307
+experiment_id: '423826989226858115'
+last_updated_timestamp: 1757710075998
+model_id: m-ff6ba514d2094b9ab052f3dec874cbd3
+model_type: null
+name: random_forest
+source_run_id: ae618c81cf894f3c85da329c5b5a94b4
+status: 2
+status_message: null

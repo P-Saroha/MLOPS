@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/811548a8f58d40a6981653ee94f4935e/artifacts
+end_time: 1757710064818
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 811548a8f58d40a6981653ee94f4935e
+run_name: lyrical-carp-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064733
+status: 3
+tags: []
+user_id: saroh

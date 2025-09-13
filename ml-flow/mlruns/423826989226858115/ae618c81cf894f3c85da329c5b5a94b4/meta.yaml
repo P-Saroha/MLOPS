@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/ae618c81cf894f3c85da329c5b5a94b4/artifacts
+end_time: 1757710076035
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: ae618c81cf894f3c85da329c5b5a94b4
+run_name: painted-sponge-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710058438
+status: 3
+tags: []
+user_id: saroh

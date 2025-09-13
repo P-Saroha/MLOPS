@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/646c12a6ff3b471e8c433058c33100c0/artifacts
+end_time: 1757710064903
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 646c12a6ff3b471e8c433058c33100c0
+run_name: beautiful-donkey-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064828
+status: 3
+tags: []
+user_id: saroh

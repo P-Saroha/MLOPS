@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/52ef6c18f04a49a38a9b2b7183f7cd10/artifacts
+end_time: 1757710064135
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 52ef6c18f04a49a38a9b2b7183f7cd10
+run_name: persistent-jay-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710063954
+status: 3
+tags: []
+user_id: saroh

@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/3aa1453a5578437dbc5dd7e8e76a9a03/artifacts
+end_time: 1757710064404
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 3aa1453a5578437dbc5dd7e8e76a9a03
+run_name: caring-wolf-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064338
+status: 3
+tags: []
+user_id: saroh

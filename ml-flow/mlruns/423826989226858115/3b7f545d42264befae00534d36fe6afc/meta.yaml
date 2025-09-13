@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/3b7f545d42264befae00534d36fe6afc/artifacts
+end_time: 1757710065105
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 3b7f545d42264befae00534d36fe6afc
+run_name: righteous-goose-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710065026
+status: 3
+tags: []
+user_id: saroh

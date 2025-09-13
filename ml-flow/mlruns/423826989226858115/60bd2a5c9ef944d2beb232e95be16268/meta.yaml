@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/60bd2a5c9ef944d2beb232e95be16268/artifacts
+end_time: 1757710064724
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 60bd2a5c9ef944d2beb232e95be16268
+run_name: debonair-stoat-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064650
+status: 3
+tags: []
+user_id: saroh

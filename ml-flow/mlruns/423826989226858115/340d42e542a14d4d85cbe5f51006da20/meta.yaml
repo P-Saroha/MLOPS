@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/340d42e542a14d4d85cbe5f51006da20/artifacts
+end_time: 1757710065008
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 340d42e542a14d4d85cbe5f51006da20
+run_name: unique-wasp-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064913
+status: 3
+tags: []
+user_id: saroh

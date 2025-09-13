@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/c52abd7b4d974b2f91374dedf4da178a/artifacts
+end_time: 1757710064330
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: c52abd7b4d974b2f91374dedf4da178a
+run_name: redolent-gull-262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757710064255
+status: 3
+tags: []
+user_id: saroh
