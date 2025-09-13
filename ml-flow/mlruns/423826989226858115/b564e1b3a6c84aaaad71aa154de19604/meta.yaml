@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/b564e1b3a6c84aaaad71aa154de19604/artifacts
+end_time: 1757754438142
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: b564e1b3a6c84aaaad71aa154de19604
+run_name: bright-worm-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754437923
+status: 3
+tags: []
+user_id: saroh

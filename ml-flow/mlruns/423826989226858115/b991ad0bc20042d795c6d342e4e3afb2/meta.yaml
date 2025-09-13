@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/b991ad0bc20042d795c6d342e4e3afb2/artifacts
+end_time: 1757754438668
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: b991ad0bc20042d795c6d342e4e3afb2
+run_name: smiling-snail-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754438560
+status: 3
+tags: []
+user_id: saroh

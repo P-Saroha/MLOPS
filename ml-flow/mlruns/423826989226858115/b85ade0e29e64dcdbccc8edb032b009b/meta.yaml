@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/b85ade0e29e64dcdbccc8edb032b009b/artifacts
+end_time: 1757754438408
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: b85ade0e29e64dcdbccc8edb032b009b
+run_name: powerful-jay-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754438286
+status: 3
+tags: []
+user_id: saroh

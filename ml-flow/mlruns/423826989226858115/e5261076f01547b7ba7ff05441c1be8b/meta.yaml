@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/e5261076f01547b7ba7ff05441c1be8b/artifacts
+end_time: 1757754438786
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: e5261076f01547b7ba7ff05441c1be8b
+run_name: clumsy-lamb-555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754438682
+status: 3
+tags: []
+user_id: saroh

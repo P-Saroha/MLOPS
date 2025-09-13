@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/f0d542689aa54b9f9a30abcbce4b3488/artifacts
+end_time: 1757754445981
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: f0d542689aa54b9f9a30abcbce4b3488
+run_name: charming-trout-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754428440
+status: 3
+tags: []
+user_id: saroh

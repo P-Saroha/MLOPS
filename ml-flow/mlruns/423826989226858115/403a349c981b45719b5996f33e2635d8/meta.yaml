@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/403a349c981b45719b5996f33e2635d8/artifacts
+end_time: 1757754437440
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 403a349c981b45719b5996f33e2635d8
+run_name: zealous-squid-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754435579
+status: 3
+tags: []
+user_id: saroh

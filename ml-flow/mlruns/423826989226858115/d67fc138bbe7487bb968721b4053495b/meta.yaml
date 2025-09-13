@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/d67fc138bbe7487bb968721b4053495b/artifacts
+end_time: 1757754439033
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: d67fc138bbe7487bb968721b4053495b
+run_name: intrigued-stag-362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754438923
+status: 3
+tags: []
+user_id: saroh

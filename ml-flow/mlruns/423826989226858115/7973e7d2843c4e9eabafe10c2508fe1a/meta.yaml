@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/7973e7d2843c4e9eabafe10c2508fe1a/artifacts
+end_time: 1757754437749
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 7973e7d2843c4e9eabafe10c2508fe1a
+run_name: treasured-shrimp-196
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754437615
+status: 3
+tags: []
+user_id: saroh

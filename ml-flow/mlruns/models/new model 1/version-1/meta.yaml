@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1757754925986
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1757754925986
+metrics: null
+model_id: m-6429664f292745399354510c94a23ddf
+name: new model 1
+params: null
+run_id: ''
+run_link: ''
+source: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/models/m-6429664f292745399354510c94a23ddf/artifacts
+status: READY
+status_message: null
+storage_location: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/models/m-6429664f292745399354510c94a23ddf/artifacts
+user_id: null
+version: 1

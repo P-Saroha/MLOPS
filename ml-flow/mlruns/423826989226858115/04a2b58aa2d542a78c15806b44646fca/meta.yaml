@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/04a2b58aa2d542a78c15806b44646fca/artifacts
+end_time: 1757754438541
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: 04a2b58aa2d542a78c15806b44646fca
+run_name: unequaled-snail-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754438429
+status: 3
+tags: []
+user_id: saroh

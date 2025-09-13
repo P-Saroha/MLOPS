@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/ml-flow/mlruns/423826989226858115/bef2c5c6e4ca4ef0936820ca55af4fef/artifacts
+end_time: 1757754438911
+entry_point_name: ''
+experiment_id: '423826989226858115'
+lifecycle_stage: active
+run_id: bef2c5c6e4ca4ef0936820ca55af4fef
+run_name: kindly-goat-454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757754438805
+status: 3
+tags: []
+user_id: saroh
